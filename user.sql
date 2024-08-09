@@ -1,0 +1,3 @@
+INSERT INTO `user` (`id`, `username`, `email`, `password`, `role`, `name`, `phone`, `status`, `day_register`) VALUES ('admin', 'admin', 'buiquanghuy0029a@gmail.com', 'quanghuy212002', 1, 'Bui Quang Huy', '0981722033', 1, '2/1/2002');
+INSERT INTO `user` (`id`, `username`, `email`, `password`, `role`, `name`, `phone`, `status`, `day_register`) VALUES ('user5098414045', 'quanghuysuperhero', 'ntd123@gmail.com', 'quanghuy', 0, 'bqh', '0987124256', 1, '2023-01-02 12:15:26.91');
+INSERT INTO `user` (`id`, `username`, `email`, `password`, `role`, `name`, `phone`, `status`, `day_register`) VALUES ('user64274453870', 'quanghuy', 'quanghuy0029a@gmail.com', 'quanghuy212002', 3, 'Bùi Quang Huy', '09878131', 1, '12/12/2002');
